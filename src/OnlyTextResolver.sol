@@ -1,6 +1,6 @@
 //SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.2;
+pragma solidity ^0.8.10;
 
 contract OnlyTextResolver {
     mapping(bytes32 => mapping(string => string)) public texts;
