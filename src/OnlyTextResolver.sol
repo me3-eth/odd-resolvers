@@ -27,7 +27,7 @@ contract OnlyTextResolver {
     }
 
     /// @dev purposefully unauthorised
-    function setName(bytes32 node, string calldata name) external {
-      names[node] = name;
+    function setName(bytes32 node, string calldata value) external {
+      names[node] = value;
     }
 }
