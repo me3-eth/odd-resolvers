@@ -10,7 +10,7 @@ If a resovler is forked from an existing one, see comments at the top of the con
 
 ### OnlyTextResolver.sol
 
-* Ropsten: 0x2aa4d6920c9bc269C528f2dd337C6855da3dE5B3
+* Ropsten: 0x49804256a7fa14318dd2d136eecf8e4fcdd8c790
 
 ## License
 
